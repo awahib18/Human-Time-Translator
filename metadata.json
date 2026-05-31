@@ -1,0 +1,6 @@
+{
+  "name": "Human Time Translator",
+  "description": "Converts any time quantity into all human-readable representations instantly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
